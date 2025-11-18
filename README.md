@@ -10,7 +10,7 @@ Tasks:
 - Visit those links to collect email addresses.
 - Clean, structure, and store the results in CSV files.
 
-<img width="636" height="163" alt="Screenshot_1" src="https://github.com/user-attachments/assets/562bc987-8c12-4690-b172-f3bdc9c52983" />
+<img width="675" height="248" alt="image" src="https://github.com/user-attachments/assets/c0903703-ef57-4ced-a29b-aef82ffabd81" /># Scalable-Web-Scraping-Pipeline
 
 ## Approach
 
