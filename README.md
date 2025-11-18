@@ -1,7 +1,8 @@
                                          ** Runned and Tested in Google Colab **                                           
 ## 🎯 Context
 
-Internship challenge from Digiole. The task was to create, build and run a **modular scraping pipeline** that gathers verified business contact data (especially emails) from publicly available directories across selected industries.
+Internship challenge from Digiole. 
+The task was to create, build and run a **modular scraping pipeline** that gathers verified business contact data (especially emails) from publicly available directories across selected industries.
 
 ## 🚀 Challenge Prompt
 
