@@ -19,6 +19,16 @@ You'll have to:
 <img width="677" height="208" alt="Screenshot_1" src="https://github.com/user-attachments/assets/90e7d628-20aa-4955-9bf0-879b68be78dd" />
 
 ## Approach
+`from bs4 import BeautifulSoup
+import requests
+import pandas as pd
+from pandas import DataFrame as DataFrame
+import urllib.parse
+import re`
+### Imports
+
+## Results
+
 
 
 ## Difficulties
