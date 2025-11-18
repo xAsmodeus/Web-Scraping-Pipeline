@@ -24,9 +24,10 @@ You'll have to:
 - Made a CSV from each page containing the .html "link" of each industry.
 - Merged the 3 CSV files to one.
 <img width="527" height="430" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bdc0d49c-c00b-4174-b60f-04ee3528b78c" />
+
 - Used that CSV file to build the whole address of each link: **Standard part** + **variable part**.
 - The updated file helped me find the URL's
-- |NAME|LINK| CSV file
+- |NAME|LINKS| CSV file
  <img width="527" height="430" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bdc0d49c-c00b-4174-b60f-04ee3528b78c" />
 
 
