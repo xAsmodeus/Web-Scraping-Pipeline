@@ -12,7 +12,13 @@ You'll have to:
 2. Visit those pages (or linked websites), extract valid email addresses.
 3. Produce and submit the final cleaned datasets(CSV), and share your codebase.
 
+🗂️ Expected Output
+<img width="677" height="208" alt="Screenshot_1" src="https://github.com/user-attachments/assets/4ad9678a-0ddf-44e3-bfa6-9e0013821780" />
+
+
 <img width="675" height="248" alt="image" src="https://github.com/user-attachments/assets/c0903703-ef57-4ced-a29b-aef82ffabd81" />
+
+
 ## Approach
 
 
