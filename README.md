@@ -29,8 +29,10 @@ You'll have to:
 - The updated file helped me find the URL's
 - |NAME|LINKS| CSV file
  <img width="527" height="430" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bdc0d49c-c00b-4174-b60f-04ee3528b78c" />
+ 
 -|NAME|LINKS|EMAILS|COUNTRY| CSV file
   *to be uploaded*
+
 ## Difficulties
 1) Some webpages didn't own a 'Visit Webpage' button so an early approach resulted to having some slots empty in the email CSV.
 2) To "route" to different webpages
