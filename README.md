@@ -3,8 +3,6 @@
 
 Internship challenge from Digiole. The task was to create, build and run a **modular scraping pipeline** that gathers verified business contact data (especially emails) from publicly available directories across selected industries.
 
-https://www.notion.so/digiole/Scalable-Web-Scraping-Pipeline-21425969342680b7a99ef9f999a96f06
-
 Tasks: 
 - Extract company page links from a directory.
 - Visit those links to collect email addresses.
@@ -37,6 +35,14 @@ The files in the repository are examples for you to run.
 3) Special attention must be paid to the dimensions of the variables, otherwise the model will not run. (They can be changed by clicking on function_block > Edit Data > Symbols ( & Property Inspector). 
 
 ## References
-
-  1. https://chatgpt.com/share/6755fced-a7b4-8001-918d-66a337f7cdb4
+1. https://www.notion.so/digiole/Scalable-Web-Scraping-Pipeline-21425969342680b7a99ef9f999a96f06
+2. https://www.europages.co.uk/en/search?isPserpFirst=1&q=winery+supplies
+3. https://beautiful-soup-4.readthedocs.io/en/latest/#quick-start
+4. https://pandas.pydata.org/docs/user_guide/index.html
+5. W3schools
+5. Stackoverflow
+6. Youtube
+7. Chat GPT
+8. Gemini AI
+9. Geeks for Geeks
   
