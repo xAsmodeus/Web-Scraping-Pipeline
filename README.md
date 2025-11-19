@@ -28,8 +28,9 @@ You'll have to:
 - Used that CSV file to build the whole address of each link: **Standard part** + **variable part**.
 - The updated file helped me find the URL's
 - |NAME|LINKS| CSV file
- <img width="527" height="430" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bdc0d49c-c00b-4174-b60f-04ee3528b78c" />
- 
+<img width="477" height="367" alt="Screenshot_2" src="https://github.com/user-attachments/assets/602d7b3f-cd6f-4a35-8276-b882e1680a10" />
+
+
 - |NAME|EMAILS|COUNTRY| CSV file
 <img width="480" height="495" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d2219e97-a242-4160-bd5c-20b72cdad170" />
 
