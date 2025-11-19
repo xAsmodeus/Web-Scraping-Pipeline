@@ -1,18 +1,13 @@
                                          ** Runned and Tested in Google Colab **                                           
 ## 🎯 Context
 
-Internship challenge from Digiole. 
+A **web craping pipeline** that gathers verified business contact data (especially emails) from publicly available directories across selected industries. 
 
-The task was to create, build and run a **modular scraping pipeline** that gathers verified business contact data (especially emails) from publicly available directories across selected industries.
+## 🚀 What it does
 
-## 🚀 Challenge Prompt
-
-> “Imagine you’re tasked with generating a contact database for wine producers in Europe, starting with data from [Europages](https://www.europages.co.uk/). How would you approach this challenge in a structured, repeatable, and scalable way?”
-You'll have to:
-
-1. Collect and save all winery profile URLs from Europages.
-2. Visit those pages (or linked websites), extract valid email addresses.
-3. Produce and submit the final cleaned datasets(CSV), and share your codebase.
+1. Collects and saves all winery profile URLs from Europages.
+2. Visits those pages (or linked websites), extracts valid email addresses.
+3. Produces and submist the final cleaned datasets(CSV).
 
 ## 🗂️ Expected Output
 
