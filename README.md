@@ -1,7 +1,7 @@
                                          ** Runned and Tested in Google Colab **                                           
 ## 🎯 Context
 
-A **web craping pipeline** that gathers verified business contact data (especially emails) from publicly available directories across selected industries. 
+A **web scraping pipeline** that gathers verified business contact data (especially emails) from publicly available directories across selected industries. 
 
 ## 🚀 What it does
 
