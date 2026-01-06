@@ -3,6 +3,8 @@
 
 A **web scraping pipeline** that gathers verified business contact data (especially emails) from publicly available directories across selected industries. 
 
+---
+
 ## 🚀 What it does
 
 1. Collects and saves all winery profile URLs from Europages.
