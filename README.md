@@ -27,8 +27,6 @@ A **web scraping pipeline** that gathers verified business contact data (especia
 - The updated file helped me find the URL's
 - |NAME|LINKS| CSV file
 <img width="477" height="367" alt="Screenshot_2" src="https://github.com/user-attachments/assets/602d7b3f-cd6f-4a35-8276-b882e1680a10" />
-
-
 - |NAME|EMAILS|COUNTRY| CSV file
 <img width="480" height="495" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d2219e97-a242-4160-bd5c-20b72cdad170" />
 
