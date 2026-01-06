@@ -3,12 +3,15 @@
 
 A **web scraping pipeline** that gathers verified business contact data (especially emails) from publicly available directories across selected industries. 
 
+---
 
 ## 🚀 What it does
 
 1. Collects and saves all winery profile URLs from Europages.
 2. Visits those pages (or linked websites), extracts valid email addresses.
 3. Produces and submist the final cleaned datasets(CSV).
+
+---
 
 ## 🗂️ Expected Output
 
@@ -20,7 +23,6 @@ A **web scraping pipeline** that gathers verified business contact data (especia
 - Made a CSV from each page containing the .html "link" of each industry.
 - Merged the 3 CSV files into one.
 <img width="527" height="430" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bdc0d49c-c00b-4174-b60f-04ee3528b78c" />
-
 - Used that CSV file to build the whole address of each link: **Standard part** + **variable part**.
 - The updated file helped me find the URL's
 - |NAME|LINKS| CSV file
@@ -30,12 +32,16 @@ A **web scraping pipeline** that gathers verified business contact data (especia
 - |NAME|EMAILS|COUNTRY| CSV file
 <img width="480" height="495" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d2219e97-a242-4160-bd5c-20b72cdad170" />
 
+---
+
 ## Difficulties
 1) Some webpages didn't own a 'Visit Webpage' button so an early approach resulted to having some slots empty in the email CSV.
 2) To "route" to different webpages
 3) "Green Life Revolution sl" had an email instead of a 'Visit Webpage'. No tests were made.
 4) In the end, the tasks required to find the countries too, so I backtracked to make it work.
 5) Logic & Code
+
+---
 
 ## References
 1. https://www.notion.so/digiole/Scalable-Web-Scraping-Pipeline-21425969342680b7a99ef9f999a96f06
