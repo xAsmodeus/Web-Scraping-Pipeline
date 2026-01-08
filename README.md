@@ -1,6 +1,3 @@
-                                         
----
-
 # Web Scraping Pipeline
 
 ## 🎯 Context
