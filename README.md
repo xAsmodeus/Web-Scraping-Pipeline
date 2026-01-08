@@ -1,4 +1,8 @@
-                                         ** Runned and Tested in Google Colab **                                           
+                                         
+---
+
+# Web Scraping Pipeline
+
 ## 🎯 Context
 
 A **web scraping pipeline** that gathers verified business contact data (especially emails) from publicly available directories across selected industries. 
@@ -58,4 +62,6 @@ A **web scraping pipeline** that gathers verified business contact data (especia
 7. Chat GPT
 8. Gemini AI
 9. Geeks for Geeks
+
+** Runned and Tested in Google Colab ** 
   
