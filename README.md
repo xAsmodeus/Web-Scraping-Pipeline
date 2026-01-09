@@ -59,6 +59,4 @@ A **web scraping pipeline** that gathers verified business contact data (especia
 7. Chat GPT
 8. Gemini AI
 9. Geeks for Geeks
-
-** Runned and Tested in Google Colab ** 
   
