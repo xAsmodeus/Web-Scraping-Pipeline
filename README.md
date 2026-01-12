@@ -1,4 +1,4 @@
-# Web Scraping Pipeline
+<h1 align="center">  Web Scraping Pipeline </h1>
 
 > **Runned and Tested in Google Colab**
 
