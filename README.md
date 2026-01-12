@@ -16,7 +16,7 @@ A **web scraping pipeline** that gathers verified business contact data (especia
 
 The pipeline must follow this exact format.
 
-<img width="500" height="300" alt="Screenshot_1" src="https://github.com/user-attachments/assets/90e7d628-20aa-4955-9bf0-879b68be78dd" />
+<img width="500" height="350" alt="Screenshot_1" src="https://github.com/user-attachments/assets/90e7d628-20aa-4955-9bf0-879b68be78dd" />
 
 1. Imported the libraries.
 2. Got data from each of the 3 pages.
