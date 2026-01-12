@@ -19,10 +19,11 @@ A **web scraping pipeline** that gathers verified business contact data (especia
 ---
 
 ## Some of my work and results
-- Imported the libraries.
-- Got data from each of the 3 pages.
-- Made a CSV from each page containing the .html "link" of each industry.
-- Merged the 3 CSV files into one.
+1. Imported the libraries.
+2. Got data from each of the 3 pages.
+3. Made a CSV from each page containing the .html "link" of each industry.
+4. Merged the 3 CSV files into one.
+
 <img width="527" height="430" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bdc0d49c-c00b-4174-b60f-04ee3528b78c" />
 
 - Used that CSV file to build the whole address of each link: **Standard part** + **variable part**.
