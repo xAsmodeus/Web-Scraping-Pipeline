@@ -10,13 +10,13 @@ A **web scraping pipeline** that gathers verified business contact data (especia
 2. Visits those pages (or linked websites), extracts valid email addresses.
 3. Produces and submist the final cleaned datasets(CSV).
 
----
-
-## 🧠 Approach
-
 The pipeline must follow this exact format.
 
 <img width="500" height="400" alt="Screenshot_1" src="https://github.com/user-attachments/assets/90e7d628-20aa-4955-9bf0-879b68be78dd" />
+
+---
+
+## 🧠 Approach
 
 1. Imported the libraries.
 2. Got data from each of the 3 pages.
