@@ -1,14 +1,8 @@
 <h1 align="center">  Web Scraping Pipeline </h1>
 
-> **Runned and Tested in Google Colab**
-
-## 🎯 Context
+## 🔍 Overview
 
 A **web scraping pipeline** that gathers verified business contact data (especially emails) from publicly available directories across selected industries. 
-
----
-
-## 🚀 What it does
 
 1. Collects and saves all winery profile URLs from Europages.
 2. Visits those pages (or linked websites), extracts valid email addresses.
@@ -49,6 +43,10 @@ A **web scraping pipeline** that gathers verified business contact data (especia
 5) Logic & Code
 
 ---
+
+## 🧪 Tests
+
+- Run and tested on Google Colab
 
 ## References
 1. https://www.notion.so/digiole/Scalable-Web-Scraping-Pipeline-21425969342680b7a99ef9f999a96f06
