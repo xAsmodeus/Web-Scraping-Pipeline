@@ -37,18 +37,11 @@ A **web scraping pipeline** that gathers verified business contact data (especia
 
 ---
 
-## Difficulties
-1) Some webpages didn't own a 'Visit Webpage' button so an early approach resulted to having some slots empty in the email CSV.
-2) To "route" to different webpages
-3) "Green Life Revolution sl" had an email instead of a 'Visit Webpage'. No tests were made.
-4) In the end, the tasks required to find the countries too, so I backtracked to make it work.
-5) Logic & Code
-
----
-
 ## 🧪 Tests
 
 - Run and tested on Google Colab
+
+---
 
 ## References
 1. https://www.notion.so/digiole/Scalable-Web-Scraping-Pipeline-21425969342680b7a99ef9f999a96f06
