@@ -18,22 +18,30 @@ The pipeline must follow this exact format.
 
 ## 🧠 Approach
 
-1. Imported the libraries.
-2. Got data from each of the 3 pages.
-3. Made a CSV from each page containing the .html "link" of each industry.
-4. Merged the 3 CSV files into one.
+**Step 1 – Setup**
+- Imported the libraries.
+- Identified the 3 source pages.
 
-<img width="527" height="430" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bdc0d49c-c00b-4174-b60f-04ee3528b78c" />
+**Step 2 – Data Extraction**
+- Scraped data from each page.
+- Saved each page’s `.html` links into separate CSV files.
 
-- Used that CSV file to build the whole address of each link: **Standard part** + **variable part**.
-- The updated file helped me find the URL's.
-- |NAME|LINKS| 
-  
-<img width="477" height="367" alt="Screenshot_2" src="https://github.com/user-attachments/assets/602d7b3f-cd6f-4a35-8276-b882e1680a10" />
+**Step 3 – Data Merging**
+- Merged the three CSV files into one master file.
 
-- |NAME|EMAILS|COUNTRY|
+**Step 4 – URL Construction**
+- Combined the standard base URL with the variable link parts.
+- Generated full industry URLs.
 
-<img width="480" height="495" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d2219e97-a242-4160-bd5c-20b72cdad170" />
+**Step 5 – Final Outputs**
+- Created `NAME | LINKS` CSV.
+- Created `NAME | EMAILS | COUNTRY` CSV.
+
+<img width="500" height="400" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bdc0d49c-c00b-4174-b60f-04ee3528b78c" />
+
+<img width="500" height="400" alt="Screenshot_2" src="https://github.com/user-attachments/assets/602d7b3f-cd6f-4a35-8276-b882e1680a10" />
+
+<img width="500" height="400" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d2219e97-a242-4160-bd5c-20b72cdad170" />
 
 ---
 
