@@ -12,7 +12,7 @@ A **web scraping pipeline** that gathers verified business contact data (especia
 
 ---
 
-## 🗂️ Expected Output
+## 🧠 Approach
 
 <img width="677" height="208" alt="Screenshot_1" src="https://github.com/user-attachments/assets/90e7d628-20aa-4955-9bf0-879b68be78dd" />
 
