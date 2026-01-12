@@ -14,6 +14,8 @@ A **web scraping pipeline** that gathers verified business contact data (especia
 
 ## 🧠 Approach
 
+The pipeline must follow this exact format.
+
 <img width="677" height="208" alt="Screenshot_1" src="https://github.com/user-attachments/assets/90e7d628-20aa-4955-9bf0-879b68be78dd" />
 
 1. Imported the libraries.
