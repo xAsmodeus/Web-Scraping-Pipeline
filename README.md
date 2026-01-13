@@ -18,22 +18,22 @@ The pipeline must follow this exact format.
 
 ## 🧠 Approach
 
-**Step 1 – Setup**
+▶ **Step 1 – Setup**
 - Imported the libraries.
 - Identified the 3 source pages.
 
-**Step 2 – Data Extraction**
+▶ **Step 2 – Data Extraction**
 - Scraped data from each page.
 - Saved each page’s `.html` links into separate CSV files.
 
-**Step 3 – Data Merging**
+▶ **Step 3 – Data Merging**
 - Merged the three CSV files into one master file.
 
-**Step 4 – URL Construction**
+▶ **Step 4 – URL Construction**
 - Combined the standard base URL with the variable link parts.
 - Generated full industry URLs.
 
-**Step 5 – Final Outputs**
+▶ **Step 5 – Final Outputs**
 - Created `NAME | LINKS` CSV.
 - Created `NAME | EMAILS | COUNTRY` CSV.
 
