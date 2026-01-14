@@ -65,4 +65,8 @@ The pipeline must follow this exact format.
 7. Chat GPT
 8. Gemini AI
 9. Geeks for Geeks
+
+---
+
+## ⚖️ Licence
   
