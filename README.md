@@ -54,7 +54,7 @@ The pipeline must follow this exact format.
 
 ---
 
-## References
+## 🔗 References
 1. https://www.notion.so/digiole/Scalable-Web-Scraping-Pipeline-21425969342680b7a99ef9f999a96f06
 2. https://www.europages.co.uk/en/search?isPserpFirst=1&q=winery+supplies
 3. https://beautiful-soup-4.readthedocs.io/en/latest/#quick-start
