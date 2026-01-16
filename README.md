@@ -69,4 +69,10 @@ The pipeline must follow this exact format.
 ---
 
 ## ⚖️ Licence
+(empty for the moment)
+
+---
+
+## 💬 Contact
+For any questions, contact me via email: georgekoupni@gmail.com
   
