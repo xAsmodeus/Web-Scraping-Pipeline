@@ -2,6 +2,16 @@
 
 ---
 
+## 📚 Table of Contents
+- [Overview](#overview)
+- [Approach](#approach)
+- [Tests](#tests)
+- [References](#references)
+- [Licence](#licence)
+- [Contact](#contact)
+
+---
+
 ## 🔍 Overview
 
 A **web scraping pipeline** that gathers verified business contact data (especially emails) from publicly available directories across selected industries. 
