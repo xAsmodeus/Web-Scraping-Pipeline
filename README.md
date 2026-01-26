@@ -5,8 +5,7 @@
 ## 📚 Table of Contents
 - [Overview](#overview)
 - [Approach](#approach)
-- [Tests](#tests)
-- [References](#references)
+- [Tools & Technologies](#tools-technologies)
 - [Licence](#licence)
 - [Contact](#contact)
 
@@ -58,23 +57,11 @@ The pipeline must follow this exact format.
 
 ---
 
-## 🧪 Tests
+## 🛠️ Tools & Technologies
 
-- Run and tested on Google Colab
-
----
-
-## 🔗 References
-1. https://www.notion.so/digiole/Scalable-Web-Scraping-Pipeline-21425969342680b7a99ef9f999a96f06
-2. https://www.europages.co.uk/en/search?isPserpFirst=1&q=winery+supplies
-3. https://beautiful-soup-4.readthedocs.io/en/latest/#quick-start
-4. https://pandas.pydata.org/docs/user_guide/index.html
-5. W3schools
-5. Stackoverflow
-6. Youtube
-7. Chat GPT
-8. Gemini AI
-9. Geeks for Geeks
+- **Language:** Python (v(empty for the moment))
+- **Libraries:** (empty for the moment)
+- **Platform:** Google Colab
 
 ---
 
