@@ -58,8 +58,13 @@ The pipeline must follow this exact format.
 
 ## 🛠️ Technology Stack
 
-- **Language:** Python (v(empty for the moment))
-- **Libraries:** (empty for the moment)
+- **Language:** Python (v to be updated)
+- **Modules:**
+  - `requests` 
+  - `BeautifulSoup (bs4)` 
+  - `pandas` 
+  - `urllib.parse` 
+  - `re` 
 - **Platform:** Google Colab
 
 ---
