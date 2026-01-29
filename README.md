@@ -5,7 +5,7 @@
 ## 📚 Table of Contents
 - [Overview](#overview)
 - [Approach](#approach)
-- [Tools & Technologies](#tools-technologies)
+- [Technology Stack](#teck-stack)
 - [Licence](#licence)
 
 ---
@@ -56,7 +56,7 @@ The pipeline must follow this exact format.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Technology Stack
 
 - **Language:** Python (v(empty for the moment))
 - **Libraries:** (empty for the moment)
