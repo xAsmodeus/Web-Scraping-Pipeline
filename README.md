@@ -5,8 +5,8 @@
 ## 📚 Table of Contents
 - [Overview](#overview)
 - [Approach](#approach)
-- [Technology Stack](#teck-stack)
 - [Results](#results)
+- [Technology Stack](#teck-stack)
 - [Licence](#licence)
 
 ---
@@ -56,6 +56,10 @@ The pipeline must follow this exact format.
 
 <img width="500" height="400" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d2219e97-a242-4160-bd5c-20b72cdad170" />
 
+
+---
+
+## 📊 Results
 
 ---
 
