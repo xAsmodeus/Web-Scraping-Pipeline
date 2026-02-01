@@ -13,9 +13,9 @@
 
 ## 🔍 Overview
 
-A **web scraping pipeline** that gathers verified business contact data (especially emails) from publicly available directories across selected industries. 
+A **web scraping pipeline** that gathers verified business contact data from publicly available directories across selected industries. 
 
-1. Collects and saves all winery profile URLs from Europages.
+1. Collects and saves all winery profile URLs from [Europages](https://www.europages.co.uk/en/search?isPserpFirst=1&q=winery+supplies)
 2. Visits those pages (or linked websites), extracts valid email addresses.
 3. Produces and submist the final cleaned datasets(CSV).
 
@@ -51,6 +51,7 @@ The pipeline must follow this exact format.
 ## 📊 Results
 
 *Output Samples*
+1) 
 
 <img width="500" height="400" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bdc0d49c-c00b-4174-b60f-04ee3528b78c" />
 
