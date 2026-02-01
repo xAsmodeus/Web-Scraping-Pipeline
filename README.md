@@ -77,4 +77,4 @@ The pipeline must follow this exact format.
 ---
 
 ## ⚖️ Licence
-See the [Licence](Licence/) 
+See the [Licence](LICENCE.MD/) 
