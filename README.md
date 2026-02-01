@@ -46,6 +46,10 @@ The pipeline must follow this exact format.
 - Created `NAME | LINKS` CSV.
 - Created `NAME | EMAILS | COUNTRY` CSV.
 
+---
+
+## 📊 Results
+
 *Output Samples*
 
 <img width="500" height="400" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bdc0d49c-c00b-4174-b60f-04ee3528b78c" />
@@ -55,11 +59,6 @@ The pipeline must follow this exact format.
 
 
 <img width="500" height="400" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d2219e97-a242-4160-bd5c-20b72cdad170" />
-
-
----
-
-## 📊 Results
 
 ---
 
