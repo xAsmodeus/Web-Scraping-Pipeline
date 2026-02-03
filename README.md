@@ -51,7 +51,8 @@ The pipeline must follow this exact format.
 ## 📊 Results
 
 *Output Samples*
-1) 
+
+1) `NAME | LINK`
 
 <img width="500" height="400" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bdc0d49c-c00b-4174-b60f-04ee3528b78c" />
 
