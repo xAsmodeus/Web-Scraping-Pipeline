@@ -52,13 +52,15 @@ The pipeline must follow this exact format.
 
 *Output Samples*
 
-1) `NAME | LINK`
+1) `NAME | LINK(.html)`
 
 <img width="500" height="400" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bdc0d49c-c00b-4174-b60f-04ee3528b78c" />
 
+2) `NAME | LINK`
 
 <img width="500" height="400" alt="Screenshot_2" src="https://github.com/user-attachments/assets/602d7b3f-cd6f-4a35-8276-b882e1680a10" />
 
+3) `NAME | LINK | COUNTRY`
 
 <img width="500" height="400" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d2219e97-a242-4160-bd5c-20b72cdad170" />
 
