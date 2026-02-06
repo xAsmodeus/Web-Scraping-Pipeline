@@ -52,17 +52,9 @@ The pipeline must follow this exact format.
 
 1) `NAME | LINK(.html)`
 
-<div align="center">
-  <p>
-      <img width="500" height="400" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bdc0d49c-c00b-4174-b60f-04ee3528b78c"
-  </p> </div>
+<img width="500" height="400" alt="Screenshot_2" src="https://github.com/user-attachments/assets/bdc0d49c-c00b-4174-b60f-04ee3528b78c" />
 
 2) `NAME | LINK`
-
-<div align="center">
-  <p>      
-      <img width="500" height="400" alt="Screenshot_2" src="https://github.com/user-attachments/assets/602d7b3f-cd6f-4a35-8276-b882e1680a10" />
-  </p> </div>
 
 <img width="500" height="400" alt="Screenshot_2" src="https://github.com/user-attachments/assets/602d7b3f-cd6f-4a35-8276-b882e1680a10" />
 
