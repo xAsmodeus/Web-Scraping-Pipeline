@@ -21,6 +21,12 @@ A **web scraping pipeline** that gathers verified business contact data from pub
 
 The pipeline must follow this exact format.
 
+|NAME|COUNTRY|EMAIL|
+| :--------------------- | :--------------------- | :--------------------- |
+| ...| ... | ... |
+| ...| ... | ... |
+| ...| ... | ... |
+
 <img width="500" height="400" alt="Screenshot_1" src="https://github.com/user-attachments/assets/90e7d628-20aa-4955-9bf0-879b68be78dd" />
 
 ---
