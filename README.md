@@ -27,8 +27,6 @@ The pipeline must follow this exact format.
 | ...| ... | ... |
 | ...| ... | ... |
 
-<img width="500" height="400" alt="Screenshot_1" src="https://github.com/user-attachments/assets/90e7d628-20aa-4955-9bf0-879b68be78dd" />
-
 ---
 
 ## Approach
