@@ -2,7 +2,7 @@
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Approach](#approach)
 - [Results](#results)
@@ -11,7 +11,7 @@
 
 ---
 
-## 🔍 Overview
+## Overview
 
 A **web scraping pipeline** that gathers verified business contact data from publicly available directories across selected industries. 
 
@@ -25,30 +25,30 @@ The pipeline must follow this exact format.
 
 ---
 
-## 🧠 Approach
+## Approach
 
-▶ **Step 1 – Setup**
+**Step 1 – Setup**
 - Imported the libraries.
 - Identified the 3 source pages.
 
-▶ **Step 2 – Data Extraction**
+**Step 2 – Data Extraction**
 - Scraped data from each page.
 - Saved each page’s `.html` links into separate CSV files.
 
-▶ **Step 3 – Data Merging**
+**Step 3 – Data Merging**
 - Merged the three CSV files into one master file.
 
-▶ **Step 4 – URL Construction**
+**Step 4 – URL Construction**
 - Combined the standard base URL with the variable link parts.
 - Generated full industry URLs.
 
-▶ **Step 5 – Final Outputs**
+**Step 5 – Final Outputs**
 - Created `NAME | LINKS` CSV.
 - Created `NAME | EMAILS | COUNTRY` CSV.
 
 ---
 
-## 📊 Results
+## Results
 
 1) `NAME | LINK(.html)`
 
@@ -64,7 +64,7 @@ The pipeline must follow this exact format.
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Language:** Python (v to be updated)
 - **Modules:**
@@ -77,6 +77,6 @@ The pipeline must follow this exact format.
 
 ---
 
-## ⚖️ License
+## License
 
 See the [License](LICENSE.md/) 
