@@ -7,7 +7,7 @@
 - [Approach](#approach)
 - [Results](#results)
 - [Technology Stack](#teck-stack)
-- [Licence](#licence)
+- [License](#license)
 
 ---
 
@@ -77,6 +77,6 @@ The pipeline must follow this exact format.
 
 ---
 
-## ⚖️ Licence
+## ⚖️ License
 
-See the [Licence](LICENCE.md/) 
+See the [License](LICENSE.md/) 
