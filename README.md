@@ -6,7 +6,7 @@
 - [Overview](#overview)
 - [Approach](#approach)
 - [Results](#results)
-- [Technology_Stack](#teck-stack)
+- [Technology Stack](#teck-stack)
 - [License](#license)
 
 ---
