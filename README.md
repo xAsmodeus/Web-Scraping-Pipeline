@@ -94,5 +94,17 @@ MIT [License](LICENSE/)
 
 ---
 
-## 🙌 Credits 🚧under construction🚧
+## 🙌 Credits 
+| Sources |
+|--------|
+| https://www.notion.so/digiole/Scalable-Web-Scraping-Pipeline-21425969342680b7a99ef9f999a96f06 | 
+| https://www.europages.co.uk/en/search?isPserpFirst=1&q=winery+supplies | 
+| https://beautiful-soup-4.readthedocs.io/en/latest/#quick-start | 
+| https://pandas.pydata.org/docs/user_guide/index.html | 
+| W3schools | 
+| Stackoverflow | 
+| Youtube | 
+| Chat GPT | 
+| Gemini AI | 
+| Geeks for Geeks |
 
