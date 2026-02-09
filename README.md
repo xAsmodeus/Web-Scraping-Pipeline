@@ -77,7 +77,7 @@ The pipeline must follow this exact format.
 
 ## 🧰 Technology Stack
 
-- **Language:** Python (v to be updated)
+- **Language:** Python 3
 - **Modules:**
   - `requests` 
   - `BeautifulSoup (bs4)` 
