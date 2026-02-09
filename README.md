@@ -5,7 +5,7 @@
 ## 📑 Table of Contents
 - [Overview](#overview)
 - [Approach](#approach)
-- [Results](#results)
+  - [Results](#results)
 - [Technology Stack](#teck-stack)
 - [License](#license)
 - [Credits](#credits)
@@ -94,5 +94,5 @@ MIT [License](LICENSE/)
 
 ---
 
-## 🙌 Credits
+## 🙌 Credits 🚧under construction🚧
 
