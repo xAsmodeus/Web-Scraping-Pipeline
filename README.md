@@ -2,16 +2,17 @@
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 - [Overview](#overview)
 - [Approach](#approach)
 - [Results](#results)
 - [Technology Stack](#teck-stack)
 - [License](#license)
+- [Credits](#credits)
 
 ---
 
-## Overview
+## 🧭 Overview
 
 A **web scraping pipeline** that gathers verified business contact data from publicly available directories across selected industries. 
 
@@ -35,7 +36,7 @@ The pipeline must follow this exact format.
 
 ---
 
-## Approach
+## 🛠️ Approach
 
 **Step 1 – Setup**
 - Imported the libraries.
@@ -58,7 +59,7 @@ The pipeline must follow this exact format.
 
 ---
 
-## Results
+## 📊 Results
 
 1) `NAME | LINK(.html)`
 
@@ -74,7 +75,7 @@ The pipeline must follow this exact format.
 
 ---
 
-## Technology Stack
+## 🧰 Technology Stack
 
 - **Language:** Python (v to be updated)
 - **Modules:**
@@ -87,6 +88,11 @@ The pipeline must follow this exact format.
 
 ---
 
-## License
+## 🛡️ Licence
 
-See the [License](LICENSE.md/) 
+MIT [License](LICENSE/) 
+
+---
+
+## 🙌 Credits
+
