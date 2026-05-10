@@ -108,3 +108,10 @@ MIT [License](LICENSE/)
 | Gemini AI | 
 | Geeks for Geeks |
 
+---
+
+<div align="center">
+
+## 📬 Contact
+
+For any particular questions you can reach me via the email: georgekoupni@gmail.com
