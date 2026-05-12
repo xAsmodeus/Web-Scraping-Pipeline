@@ -88,7 +88,7 @@ The pipeline must follow this exact format.
 
 ---
 
-## 🛡️ Licence
+## 🛡️ License
 
 MIT [License](LICENSE/) 
 
